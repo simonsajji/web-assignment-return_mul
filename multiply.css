@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Annie+Use+Your+Telescope&family=Concert+One&family=Dosis:wght@300&family=Genos:wght@300&family=Lato&family=Montserrat:wght@300&family=Pacifico&family=Permanent+Marker&family=Special+Elite&family=Voltaire&display=swap');
+
+body{
+    margin:0;
+    padding:0;
+    font-weight: bolder;
+    
+    
+}
+
+h1{
+    color:rgb(20, 19, 19);
+    margin:0 0px;
+    padding:5px;
+    padding-left:15px;
+    line-height:60px;
+    height:60px;
+    background:rgba(192, 142, 86,0.67);
+    font-family: 'Genos', sans-serif;
+    font-size: 2.4em;
+}
+
+h2{
+    display: inline;
+    font-size: 2em;
+    margin-left: 20px;
+    color:rgb(33, 112, 33);
+}
+.calculator{
+    width:1000px;
+    height: 900px;
+    margin-left:20%;
+    margin-top: 10%;
+    
+}
+
+input[type="text"]{
+    display: inline;
+    width:15%;
+    height:5%;
+    margin:5px;
+    font-size: 1.4em;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+
+   
+}
+input[type="button"]{
+    display: inline;
+    width:16%;
+    height:5%;
+    margin-left:1%;
+    font-size: 1.5em;
+    color:white;
+    background-color:rgb(84, 128, 129);
+    border:3px solid rgb(73, 124, 126);
+    border-radius: 10px;
+    opacity:0.9;
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+   
+}
